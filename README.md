@@ -20,7 +20,6 @@ The examples above cover the following technologies:
 * [File upload](https://www.graph.cool/docs/reference/file-handling/overview-eer4wiang0/)
 * ...
 
-> Are you looking for another example? [Request it here](https://github.com/graphcool-examples/react-graphql/issues/new).
 
 ## Tutorials
 
